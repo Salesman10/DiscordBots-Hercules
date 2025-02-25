@@ -1,23 +1,23 @@
-aiohappyeyeballs
-aiohttp
-aiosignal
-async-timeout
-attrs
-certifi
-charset-normalizer
-colorama
-discord.py
-frozenlist
-idna
-jsonschema
-jsonschema-specifications
-multidict
-propcache
-psutil
-pyrsistent
-python-dotenv
-referencing
-rpds-py
-sentry-sdk
-urllib3
-yarl
+pip install aiohappyeyeballs
+pip install aiohttp
+pip install aiosignal
+pip install async-timeout
+pip install attrs
+pip install certifi
+pip install charset-normalizer
+pip install colorama
+pip install discord.py
+pip install frozenlist
+pip install idna
+pip install jsonschema
+pip install jsonschema-specifications
+pip install multidict
+pip install propcache
+pip install psutil
+pip install pyrsistent
+pip install python-dotenv
+pip install referencing
+pip install rpds-py
+pip install sentry-sdk
+pip install urllib3
+pip install yarl
